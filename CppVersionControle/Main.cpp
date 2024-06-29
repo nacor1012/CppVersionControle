@@ -2,7 +2,7 @@
 
 void Buttplug()
 {
-	std::cout << "My Buttplug is stuck\n\n";
+	std::cout << "My Buttplug is falling out\n\n";
 }
 void Greet()
 {
