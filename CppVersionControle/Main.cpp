@@ -6,7 +6,7 @@ void Buttplug()
 }
 void Greet()
 {
-	//making a problem
+	//WTF
 	std::cout << "Main Function\n\n";
 	//changed the merge
 }
