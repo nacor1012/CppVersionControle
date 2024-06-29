@@ -2,5 +2,7 @@
 
 int main()
 {
-	std::cout << "Hello world\n\n";
+	//print some text
+	std::cout << "Main Function\n\n";
+	//changed the merge
 }
