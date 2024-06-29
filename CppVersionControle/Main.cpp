@@ -1,5 +1,9 @@
 #include <iostream>
 
+void Buttplug()
+{
+	std::cout << "My Buttplug is falling out\n\n";
+}
 void Greet()
 {
 	//print some text
@@ -9,4 +13,5 @@ void Greet()
 int main()
 {
 	Greet();
+	Buttplug();
 }
